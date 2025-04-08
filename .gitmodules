@@ -1,0 +1,9 @@
+[submodule "dongnai-travel"]
+	path = dongnai-travel
+	url = https://github.com/Code4life-Labs/dongnai-travel
+[submodule "dongnai-travel-api"]
+	path = dongnai-travel-api
+	url = https://github.com/Code4life-Labs/dongnai-travel-api
+[submodule "dongnai-travel-admin"]
+	path = dongnai-travel-admin
+	url = https://github.com/Code4life-Labs/dongnai-travel-admin
